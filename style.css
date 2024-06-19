@@ -16,3 +16,8 @@ p{
     text-shadow: 10px 10px 10px #000;
     margin: 40px;
 }
+li{
+    text-shadow: 10px 10px 10px #000;
+    margin: 40px;
+    color: chartreuse;
+}
