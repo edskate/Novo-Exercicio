@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: brown;
+    text-shadow: 10px 10px 10px #000;
+    margin: 40px;
+}
+h2{
+    color: brown;
+    text-shadow: 10px 10px 10px #000;
+    margin: 40px;
+}
+p{
+    color: brown;
+    text-shadow: 10px 10px 10px #000;
+    margin: 40px;
+}
